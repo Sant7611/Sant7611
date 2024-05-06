@@ -33,7 +33,7 @@
 <a href="https://github.com/Sant7611">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sant7611&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sant7611&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sant7611&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sant7611&theme=2077" height="180em" /> <br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sant7611&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sant7611&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sant7611&theme=2077" height="180em" /><br/>
 </div>
