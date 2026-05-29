@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sant7611&theme=matrix" alt="Sant7611" /></a> </p>
 
-- 🌱 I’m currently learning **PHP and javascript**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **santoshb7611@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sant7611**
